@@ -4,3 +4,4 @@
  - featureA
  - fixB
  - featureC
+ - featureD
